@@ -2,11 +2,11 @@
 
 **Welcome**
 
-Weâ€™re thrilled to welcome you to the MAGFest family. The MAGFam is a spunky tribe of vast and mighty adventurers. MAGFest events are behemoth hydras that only the bravest would ever try to tame. Our volunteers are legendary: together, we journey to the breach, forge legendary bonds, and return to our homes with epic tales. 
+We're thrilled to welcome you to the MAGFest family. The MAGFam is a spunky tribe of vast and mighty adventurers. MAGFest events are behemoth hydras that only the bravest would ever try to tame. Our volunteers are legendary: together, we journey to the breach, forge legendary bonds, and return to our homes with epic tales. 
 
-	The best parts of MAGFest come from our volunteersâ€™ brilliant minds. Each and every one of our events is built by people like you. Together we pitch crazy ideas and then rally together to build our dreams into reality.
+The best parts of MAGFest come from our volunteers' brilliant minds. Each and every one of our events is built by people like you. Together we pitch crazy ideas and then rally together to build our dreams into reality.
 
-We canâ€™t wait to get started.
+We can't wait to get started.
 
 **Mission:**
 
@@ -14,7 +14,7 @@ We canâ€™t wait to get started.
 
 Make the world a better place through video games
 
-There are many different and totally valid ways to accomplish this mission, with our primary method being preserving video game music, history, art, and culture though events.  The **core values** define the specific and weird ways that MAGFest INC does it.  Other organizations may do things different and create the same end result, and this is OK.  The core values are guiding principles which, without them, MAGFest isnâ€™t worth doing and we should close up shop.  Core values also represent a deliberate prioritization of one valid course of action vs another equally valid course of action.
+There are many different and totally valid ways to accomplish this mission, with our primary method being preserving video game music, history, art, and culture though events.  The **core values** define the specific and weird ways that MAGFest INC does it.  Other organizations may do things different and create the same end result, and this is OK.  The core values are guiding principles which, without them, MAGFest isn't worth doing and we should close up shop.  Core values also represent a deliberate prioritization of one valid course of action vs another equally valid course of action.
 
 **Core Values**
 
@@ -30,7 +30,7 @@ There are many different and totally valid ways to accomplish this mission, with
 
     * Demonstrate a genuine desire for the success of everyone around you.
 
-    * Actively contribute to the growth youâ€™d like to see in your peers and the organization.
+    * Actively contribute to the growth you'd like to see in your peers and the organization.
 
     * Exercise candor as a form of respect with empathy
 
@@ -40,7 +40,7 @@ There are many different and totally valid ways to accomplish this mission, with
 
     * Own your experience: create what you want to see at the event.
 
-    * If youâ€™ve got a great idea, weâ€™ll give you the support needed to make it happen.
+    * If you've got a great idea, we'll give you the support needed to make it happen.
 
     * Break down barriers between attendees, staff, and guests, allowing everyone to participate in their own way.
 
@@ -48,7 +48,7 @@ There are many different and totally valid ways to accomplish this mission, with
 
     * Failure is a necessary step in growth and development.
 
-    * Donâ€™t be afraid to try to create new things.
+    * Don't be afraid to try to create new things.
 
     * Mistakes made while acting in good faith should not be punished.
 
@@ -56,19 +56,19 @@ There are many different and totally valid ways to accomplish this mission, with
 
     * Everything we create is for our community of players, creatives, and friends.
 
-    * We donâ€™t just create events -- we nurture and build communities.
+    * We don't just create events -- we nurture and build communities.
 
     * Sponsorships should be partnerships that benefit the community
 
 **Guidelines**
 
-* Know your limits and remain honest with yourself and others. Take care of yourself, your body, and your mind. If youâ€™ve been given more than you can handle, let us know. Weâ€™re here to help.
+* Know your limits and remain honest with yourself and others. Take care of yourself, your body, and your mind. If you've been given more than you can handle, let us know. We're here to help.
 
-* Events can be hectic. Itâ€™s important to try to keep calm, remember the bigger picture, and de-escalate. Try not to sweat the small stuff -- every event is practice for the next and practice makes perfect.
+* Events can be hectic. It's important to try to keep calm, remember the bigger picture, and de-escalate. Try not to sweat the small stuff -- every event is practice for the next and practice makes perfect.
 
-* Each position, person, and shift is important. We couldnâ€™t put together our events without each and every one of you. Thank you.
+* Each position, person, and shift is important. We couldn't put together our events without each and every one of you. Thank you.
 
-* This may seem obvious, but donâ€™t do illegal things.
+* This may seem obvious, but don't do illegal things.
 
 **Responsibilities**
 
@@ -80,7 +80,7 @@ Volunteers are expected to adhere to both the volunteer and [attendee Code of Co
 
 * Equipment: Volunteers are entrusted with valuable equipment (e.g., arcade cabinets, contractor equipment, A/V gear.) Please be careful and respectful of this equipment by only using it only in the method requested. Do your best to prevent any damage.
 
-* Staff Shirts: When you wear your staff shirt, you are signaling that you are available to help attendees. If youâ€™re not interested in helping, please change shirts.
+* Staff Shirts: When you wear your staff shirt, you are signaling that you are available to help attendees. If you're not interested in helping, please change shirts.
 
 * Communication Tools: Volunteers receive access to internal staff newsletter, our internal database Uber, as well as our volunteer Slack and Twine groups.
 
@@ -92,7 +92,7 @@ Listed below are various volunteer policies. If you have any questions, please r
 
 **Missing Shifts**
 
-* We understand that sometimes circumstances beyond our control may come up. If you are no longer able to make it to your scheduled shift(s), please inform your department head as soon as youâ€™re able. Itâ€™s helpful to remove the shifts from your schedule in Uber so that other people can sign up for them.
+* We understand that sometimes circumstances beyond our control may come up. If you are no longer able to make it to your scheduled shift(s), please inform your department head as soon as you're able. It's helpful to remove the shifts from your schedule in Uber so that other people can sign up for them.
 
 * If you need access to different types of shifts or shifts on a different day, please contact [STOPs](mailto:stops@magfest.org) so that we can accomodate you.
 
@@ -106,7 +106,7 @@ Listed below are various volunteer policies. If you have any questions, please r
 
 **Out of Event Hours**
 
-* Volunteers may receive additional opportunities to work for MAGFest *outside of the event*. Volunteer hours are considered outside of event if they are two weeks away from the start of the event or end of the event. These opportunities include preparations at the warehouse, promotional work, and more. Unless specified by a department head, time volunteered outside of event is utilized at half-cost (i.e., 0.5x hour weight). Outside of event hours count towards staffing perks for the event theyâ€™re working for.
+* Volunteers may receive additional opportunities to work for MAGFest *outside of the event*. Volunteer hours are considered outside of event if they are two weeks away from the start of the event or end of the event. These opportunities include preparations at the warehouse, promotional work, and more. Unless specified by a department head, time volunteered outside of event is utilized at half-cost (i.e., 0.5x hour weight). Outside of event hours count towards staffing perks for the event they're working for.
 
 * For promotional work, volunteers may choose between:
 
@@ -142,13 +142,13 @@ Listed below are various volunteer policies. If you have any questions, please r
 
 * Some employers offer voluntary benefits to their employees. Each program is different, but several common practices include paid leave for approved hours or sending monetary donations to MAGFest Inc based on the hours an employee volunteers.
 
-* If your employer has a volunteer program youâ€™d like to utilize, weâ€™d be grateful and honored to help. Weâ€™re happy to provide you with any documentation youâ€™d need. Please email [stops@magfest.org](mailto:stops@magfest.org) with your requirements.
+* If your employer has a volunteer program you'd like to utilize, we'd be grateful and honored to help. We're happy to provide you with any documentation you'd need. Please email [stops@magfest.org](mailto:stops@magfest.org) with your requirements.
 
 **Exit Interview**
 
-* We understand that sometimes priorities change and that you may leave your volunteer position at MAGFest. In these cases, if youâ€™re interested, weâ€™d appreciate the opportunity to chat about your time with us. 
+* We understand that sometimes priorities change and that you may leave your volunteer position at MAGFest. In these cases, if you're interested, we'd appreciate the opportunity to chat about your time with us. 
 
-* Weâ€™d value your feedback and the chance to improve the volunteer experience for everyone. No matter what, we thank you for giving us your time. 
+* We'd value your feedback and the chance to improve the volunteer experience for everyone. No matter what, we thank you for giving us your time. 
 
 **Staff Reporting**
 
@@ -168,7 +168,7 @@ Listed below are various volunteer policies. If you have any questions, please r
 
     * [Staff Reporting](mailto:staffreports@magfest.org)
 
-* If youâ€™d like to familiarize yourself with our reporting process, please read it here.
+* If you'd like to familiarize yourself with our reporting process, please read it here.
 
 **Communications ****Code of Conduct**
 
@@ -176,17 +176,17 @@ Volunteers that utilize internal MAGFest communication forums including Slack, I
 
 * **Respect Each & Every One of the MAGFest Community**
 
-    * It's important that we create an inclusive environment for everyoneâ€”volunteers, employees, attendees, and board members alike. Please carry yourself appropriately and treat your colleagues with respect, compassion, and consideration. Slack is not the essential avenue of communication for MAGFest. Remember that staffers arenâ€™t expected or able to always be online.
+    * It's important that we create an inclusive environment for everyoneâ€”volunteers, employees, attendees, and board members alike. Please carry yourself appropriately and treat your colleagues with respect, compassion, and consideration. Slack is not the essential avenue of communication for MAGFest. Remember that staffers aren't expected or able to always be online.
 
-    * Even if everyone isnâ€™t participating in a conversation, be aware that what you say sets an example for the rest of the community; many are/arenâ€™t reading your words. As a volunteer, you represent MAGFest: this applies to Slack behavior. 
+    * Even if everyone isn't participating in a conversation, be aware that what you say sets an example for the rest of the community; many are/aren't reading your words. As a volunteer, you represent MAGFest: this applies to Slack behavior. 
 
 * **Choose Your Words Lovingly**
 
-    * Your actions, online and offline, affect others. Remember that at the end of the day, we all want whatâ€™s best for MAGFest. Sometimes we have different ideas about how to get there, but always strive for collaboration instead of conflict. Itâ€™s okay to disagree as long as itâ€™s not personal. Insults, harassment, and exclusionary languages/behaviors are never acceptable in our community.
+    * Your actions, online and offline, affect others. Remember that at the end of the day, we all want what's best for MAGFest. Sometimes we have different ideas about how to get there, but always strive for collaboration instead of conflict. It's okay to disagree as long as it's not personal. Insults, harassment, and exclusionary languages/behaviors are never acceptable in our community.
 
 * **Consider Other Perspectives**
 
-    * Arguments happen. In the heat of the moment, take a step back and consider other peopleâ€™s perspectives. When tensions are getting heated, reconsider your tone, your intentions, and whether or not the conversation should be paused or taken elsewhere. Strive to constructively resolve conflicts patiently and compassionately. MAGFest is a brilliant organization because we are an eclectic mix of people from all walks of life and professions. 
+    * Arguments happen. In the heat of the moment, take a step back and consider other people's perspectives. When tensions are getting heated, reconsider your tone, your intentions, and whether or not the conversation should be paused or taken elsewhere. Strive to constructively resolve conflicts patiently and compassionately. MAGFest is a brilliant organization because we are an eclectic mix of people from all walks of life and professions. 
 
 * **Reasonably Non-Offensive Content**
 
@@ -240,9 +240,9 @@ Volunteers that utilize internal MAGFest communication forums including Slack, I
 
             * Whether this is an ongoing situation.
 
-            * If there is a threat to anyoneâ€™s safety.
+            * If there is a threat to anyone's safety.
 
-        * In the event of an ongoing incident and threat to physical safety, MAGFestâ€™s immediate priority is to protect everyone involved. We will encourage those involved to notify appropriate law enforcement channels. MAGFest staff may also notify law enforcement if requested. We may provide a referral to appropriate resources to assist.
+        * In the event of an ongoing incident and threat to physical safety, MAGFest's immediate priority is to protect everyone involved. We will encourage those involved to notify appropriate law enforcement channels. MAGFest staff may also notify law enforcement if requested. We may provide a referral to appropriate resources to assist.
 
         * Once appropriate staff have reviewed a complete account of the events, they will make a decision as to how to respond. Responses may include:
 
@@ -260,13 +260,13 @@ Volunteers that utilize internal MAGFest communication forums including Slack, I
 
             * An accountability plan.
 
-            * In extreme cases, a request to find a mentor to work together on the individual(s)â€™ future actions.
+            * In extreme cases, a request to find a mentor to work together on the individual(s)' future actions.
 
             * In extreme cases, a temporary ban from MAGFest events and communication privileges.
 
             * In extreme cases, removal from a department.
 
-        * Extreme, repeated violations of the Code of Conduct or egregious threats to staffersâ€™ safety may require the case to be escalated to office employees, department heads, event leadership,  BoD, and/or law enforcement. These reports are forwarded to [staffreports@magfest.org](mailto:staffreports@magfest.org), who proceed with an internal investigation. 
+        * Extreme, repeated violations of the Code of Conduct or egregious threats to staffers' safety may require the case to be escalated to office employees, department heads, event leadership,  BoD, and/or law enforcement. These reports are forwarded to [staffreports@magfest.org](mailto:staffreports@magfest.org), who proceed with an internal investigation. 
 
         * When MAGFest staff determine the final response, they will contact the original reporter to let them know what action will be taken. The reporter may provide feedback on the response which MAGFest staff may or may not take into account. 
 
@@ -274,11 +274,11 @@ Volunteers that utilize internal MAGFest communication forums including Slack, I
 
 **Consequences**
 
-Failure to follow the Code of Conductâ€™s responsibilities may result in removal from your department(s) and loss of all volunteer benefits. If removed from a department but not an event, it is up to the volunteer to find a new department. It is possible for a volunteer to be banned from staffing one event but not the other depending on event leadershipâ€™s decision.
+Failure to follow the Code of Conduct's responsibilities may result in removal from your department(s) and loss of all volunteer benefits. If removed from a department but not an event, it is up to the volunteer to find a new department. It is possible for a volunteer to be banned from staffing one event but not the other depending on event leadership's decision.
 
 Volunteers who have consistently violated their responsibilities have remediation options. An individualized plan will be created in conjunction with department heads and, if necessary, office employees. The plan may include any combination of the following options or a unique option not listed below:
 
-1. A watchlist period, where the volunteerâ€™s actions are scrutinized. Incorrect behavior is addressed with the expectation that the volunteer will correct it moving forward. 
+1. A watchlist period, where the volunteer's actions are scrutinized. Incorrect behavior is addressed with the expectation that the volunteer will correct it moving forward. 
 
 2. Enter an agreement with a mentor who is responsible for the actions of the volunteer. The mentor will train the volunteer to correct any negligent behavior. Mentorship must be approved by leadership (e.g. managers, department heads, or event leadership)
 
@@ -352,7 +352,7 @@ All reports are kept confidential to appropriate parties (department heads, secu
 
 * If you believe or suspect this incident is ongoing.
 
-* Any additional information youâ€™d like to include.
+* Any additional information you'd like to include.
 
  
 
@@ -368,9 +368,9 @@ MAGFest staff will review the incident report and determine:
 
 * Whether this is an ongoing situation.
 
-* If there is a threat to anyoneâ€™s safety.
+* If there is a threat to anyone's safety.
 
-In the event of an ongoing incident and threat to physical safety, MAGFestâ€™s immediate priority is to protect those involved. We will encourage those involved to notify appropriate law enforcement channels. MAGFest staff may also notify law enforcement if requested. We may provide a referral to appropriate additional resources to assist.
+In the event of an ongoing incident and threat to physical safety, MAGFest's immediate priority is to protect those involved. We will encourage those involved to notify appropriate law enforcement channels. MAGFest staff may also notify law enforcement if requested. We may provide a referral to appropriate additional resources to assist.
 
 Once appropriate staff have reviewed a complete account of the events, they will make a decision as to how to respond. Responses may include:
 
@@ -382,7 +382,7 @@ Once appropriate staff have reviewed a complete account of the events, they will
 
 * Removal from a department.
 
-* A request to find a mentor to work together on the individual(s)â€™ future actions.
+* A request to find a mentor to work together on the individual(s)' future actions.
 
 * A request for a public or private apology.
 
@@ -404,7 +404,7 @@ If someone has chosen to trust you with a report and you feel confident enough t
 
 * Make reporting as comfortable of a process as possible:
 
-    * Find a quiet place where you will not be interrupted, ask if they have anywhere specific in mind. If not, ask if theyâ€™re comfortable with any of your ideas.
+    * Find a quiet place where you will not be interrupted, ask if they have anywhere specific in mind. If not, ask if they're comfortable with any of your ideas.
 
     * Offer for them to bring a friend for emotional support.
 
@@ -422,9 +422,9 @@ If someone has chosen to trust you with a report and you feel confident enough t
 
 * Refrain from promising specific actions.
 
-* Do not pressure reporters for information if they donâ€™t feel comfortable providing it.
+* Do not pressure reporters for information if they don't feel comfortable providing it.
 
-* Offer to assist the reporter by contacting further help, but be sure to note that the decision is ultimately theirâ€™s: 
+* Offer to assist the reporter by contacting further help, but be sure to note that the decision is ultimately theirs: 
 
     * staffreports@magfest.org
 
@@ -438,7 +438,7 @@ If someone has chosen to trust you with a report and you feel confident enough t
 
     * [Local emergency and non-emergency medical (e.g., urgent care, day clinic)]
 
-* Put your personal feelings aside: refrain from judging or questioning the reporterâ€™s reactions. If you are not able to do this, escalate to the appropriate managers, employees, and committee.
+* Put your personal feelings aside: refrain from judging or questioning the reporter's reactions. If you are not able to do this, escalate to the appropriate managers, employees, and committee.
 
 After receiving a report, you must inform security to proceed. If this report is received outside of the event, please inform appropriate employees, department heads, and leadership to continue.
 
@@ -462,9 +462,9 @@ Investigating a Report:
 
 A working group of people ("committee") should be formed to investigate reports - it should comprise a mix of board of directors, employees, and event leadership, alongside unbiased volunteer staffers.
 
-Reports generally include the names of witnesses and key actors. Before reaching out for more information, be sure to talk to the reporter. It is important to maintain as much transparency as possible with this process while also sustaining the reporterâ€™s agency:
+Reports generally include the names of witnesses and key actors. Before reaching out for more information, be sure to talk to the reporter. It is important to maintain as much transparency as possible with this process while also sustaining the reporter's agency:
 
-* Brief them on the investigationâ€™s next steps - who, what, when, where, and how?
+* Brief them on the investigation's next steps - who, what, when, where, and how?
 
     * Examples include: which staffers will be notified and involved in the investigation, who you will collect statements from, when you will be reaching out for statements, how you will gather statements, and an ETA.
 
@@ -472,9 +472,9 @@ Reports generally include the names of witnesses and key actors. Before reaching
 
 * Inform them that during the report follow up, you will reach out to the witnesses for more information
 
-    * Ask them how they feel about this and if theyâ€™re comfortable with you proceeding
+    * Ask them how they feel about this and if they're comfortable with you proceeding
 
-* Ask if theyâ€™re comfortable having their identity disclosed:
+* Ask if they're comfortable having their identity disclosed:
 
     * If not, assure them you will not personally disclose, confirm, or deny their identity during the investigation
 
@@ -486,7 +486,7 @@ When reaching out for statements from people involved in the incident, briefly e
 
 * Explain who you are and how you are associated with MAGFest
 
-* Make sure theyâ€™re comfortable with their report being shared and list who it will be shared with.
+* Make sure they're comfortable with their report being shared and list who it will be shared with.
 
 * Explain what information you need from them:
 
@@ -512,7 +512,7 @@ Below are a list of possible resolutions:
 
 * Removal from a department.
 
-* A request to find a mentor to work together on the individual(s)â€™ future actions.
+* A request to find a mentor to work together on the individual(s)' future actions.
 
 * A request for a public or private apology.
 
